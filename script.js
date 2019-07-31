@@ -1,4 +1,4 @@
-const baseAddress = '';
+const baseAddress = 'https://az-serverless-funcs-1.azurewebsites.net/';
 var app = new Vue({
     el: '#app',
     data: {
